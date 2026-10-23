@@ -1,0 +1,4 @@
+com/example/task_api/controller/TaskController.class
+com/example/task_api/modle/Task.class
+com/example/task_api/TaskApiApplication.class
+com/example/task_api/repository/TaskRepository.class
